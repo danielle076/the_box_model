@@ -30,6 +30,8 @@ article{
     border-radius: 5px;
 }
 
+/* met display: inline-block krijg je de cirkels naast elkaar*/
+
 .circle-one {
     background-color: hsl(23, 100%, 65%);
     width: 100px;
